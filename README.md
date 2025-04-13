@@ -1,6 +1,6 @@
 # 🎵 Melodify
 
-Melodify is a simple, Spotify-style music streaming web application built using HTML and CSS. It allows users to browse a sidebar with playlists, view trending songs, and play music directly in the browser.
+Melodify is a simple, Music streaming web application built using HTML and CSS. It allows users to browse a sidebar with playlists, view trending songs, and play music directly in the browser.
 
 ## 📸 Preview
 
